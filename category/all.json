@@ -11,14 +11,14 @@
         "name": "Shooter FPS",
         "description": "Videojuegos centrado en armas de fuego desde una perspectiva de primera persona. El género comparte rasgos comunes con otros juegos de disparos, que a su vez hacen que caiga bajo el título de juego de acción.",
         "productCount": "40",
-        "imgSrc": "img/fps.jpg"
+        "imgSrc": "img/sht.jpg"
     },
     {
         "id": 3,
         "name": "Estrategia",
         "description": "Videojuegos que requieren que el jugador ponga en práctica sus habilidades de planeamiento y pensamiento para maniobrar, gestionando recursos de diverso tipo para conseguir la victoria.",
         "productCount": "60",
-        "imgSrc": "img/est.jpg"
+        "imgSrc": "img/str.jpg"
     },
     {
         "id": 4,
