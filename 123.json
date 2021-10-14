@@ -1,0 +1,18 @@
+{
+    "articles": [
+        {
+            "name": "Stardew Valley",
+            "count": 2,
+            "unitCost": 329,
+            "currency": "$U",
+            "src": "img/ind1.jpg"
+        },
+		{
+            "name": "DARK SOULS III",
+            "count": 1,
+            "unitCost": 1199,
+            "currency": "$U",
+            "src": "img/rpg1.jpg"
+        }
+    ]
+}
